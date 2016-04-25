@@ -1,0 +1,8 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="IDEA_BUILD_DIR" value="/u0/var/idea-build" />
+    <macro name="IVY_SETTINGS_DIR" value="/home/ilya/Projects/Census/ivy-settings-dir" />
+    <macro name="MAVEN_REPOSITORY" value="/home/ilya/.m2/repository" />
+    <macro name="KOTLIN_BUNDLED" value="/opt/idea-IU-145.597.3/plugins/Kotlin/kotlinc" />
+  </component>
+</application>

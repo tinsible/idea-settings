@@ -1,10 +1,9 @@
 <application>
   <component name="ProjectJdkTable">
     <jdk version="2">
-      <name value="1.8" />
+      <name value="Java 1.6.0" />
       <type value="JavaSDK" />
-      <version value="java version &quot;1.8.0_74&quot;" />
-      <homePath value="C:/Program Files/Java/jdk1.8.0_74" />
+      <homePath value="/usr/lib/jvm/java-6-oracle" />
       <roots>
         <annotationsPath>
           <root type="composite">
@@ -13,29 +12,19 @@
         </annotationsPath>
         <classPath>
           <root type="composite">
-            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_74/jre/lib/charsets.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_74/jre/lib/deploy.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_74/jre/lib/ext/access-bridge-64.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_74/jre/lib/ext/cldrdata.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_74/jre/lib/ext/dnsns.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_74/jre/lib/ext/jaccess.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_74/jre/lib/ext/jfxrt.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_74/jre/lib/ext/localedata.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_74/jre/lib/ext/nashorn.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_74/jre/lib/ext/sunec.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_74/jre/lib/ext/sunjce_provider.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_74/jre/lib/ext/sunmscapi.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_74/jre/lib/ext/sunpkcs11.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_74/jre/lib/ext/zipfs.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_74/jre/lib/javaws.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_74/jre/lib/jce.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_74/jre/lib/jfr.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_74/jre/lib/jfxswt.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_74/jre/lib/jsse.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_74/jre/lib/management-agent.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_74/jre/lib/plugin.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_74/jre/lib/resources.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_74/jre/lib/rt.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-6-oracle/jre/lib/charsets.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-6-oracle/jre/lib/javaws.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-6-oracle/jre/lib/resources.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-6-oracle/jre/lib/rt.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-6-oracle/jre/lib/jce.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-6-oracle/jre/lib/deploy.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-6-oracle/jre/lib/plugin.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-6-oracle/jre/lib/jsse.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-6-oracle/jre/lib/management-agent.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-6-oracle/jre/lib/ext/sunjce_provider.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-6-oracle/jre/lib/ext/dnsns.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-6-oracle/jre/lib/ext/localedata.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-6-oracle/jre/lib/ext/sunpkcs11.jar!/" />
           </root>
         </classPath>
         <javadocPath>
@@ -43,10 +32,61 @@
         </javadocPath>
         <sourcePath>
           <root type="composite">
-            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_74/src.zip!/" />
-            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_74/javafx-src.zip!/" />
-            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_74/src.zip!/" />
-            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_74/javafx-src.zip!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-6-oracle/src.zip!/" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.4.3+ (/usr/bin/python3)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.1+" />
+      <homePath value="/usr/bin/python3" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///usr/lib/python3.4" />
+            <root type="simple" url="file:///usr/lib/python3.4/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file:///usr/lib/python3.4/lib-dynload" />
+            <root type="simple" url="file:///usr/local/lib/python3.4/dist-packages" />
+            <root type="simple" url="file:///usr/lib/python3/dist-packages" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/.IntelliJIdea14/system/python_stubs/-2066100795" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Go 1.6.1" />
+      <type value="Go SDK" />
+      <version value="1.6.1" />
+      <homePath value="/usr/lib/go" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///usr/lib/go/src" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file:///usr/lib/go/src" />
           </root>
         </sourcePath>
       </roots>

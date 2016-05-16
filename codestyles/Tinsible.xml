@@ -1,5 +1,22 @@
 <code_scheme name="Tinsible">
   <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
+  <option name="IMPORT_LAYOUT_TABLE">
+    <value>
+      <package name="gov.census" withSubpackages="true" static="false" />
+      <package name="gov" withSubpackages="true" static="false" />
+      <emptyLine />
+      <package name="java" withSubpackages="true" static="false" />
+      <package name="javax" withSubpackages="true" static="false" />
+      <emptyLine />
+      <package name="com" withSubpackages="true" static="false" />
+      <package name="net" withSubpackages="true" static="false" />
+      <package name="org" withSubpackages="true" static="false" />
+      <emptyLine />
+      <package name="" withSubpackages="true" static="false" />
+      <emptyLine />
+      <package name="" withSubpackages="true" static="true" />
+    </value>
+  </option>
   <codeStyleSettings language="JAVA">
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
